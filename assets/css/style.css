@@ -1,0 +1,35 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header,
+footer {
+    text-align: center;
+    background-color: rgb(223, 86, 86);
+    padding: 20px;
+}
+
+main {
+    background-color: beige;
+}
+
+header {
+    position: sticky;
+    top: 1px;
+}
+
+h2 {
+    display: inline;
+    text-decoration: none;
+}
+
+.contact-form {
+    display: block;
+}
+
+img {
+    
+    padding:10px;
+    border:10px solid orange;
+    margin:20px auto;
+}
